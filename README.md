@@ -21,7 +21,7 @@ This dashboard turns a raw, order-level Swiggy dataset into a decision-ready sal
 - **Rows:** ~197,000 individual food orders
 - **Columns:** State, City, Order Date, Day, Quarter, Week, Restaurant Name, Location, Category, Dish Name, Food Type (Veg/Non-Veg), Price, Rating, Rating Count
 - **Coverage:** 28 states, ~5,000 restaurant categories/cuisines
-- Source: [add where you got the dataset — e.g. Kaggle link]
+- Source:  Practice dataset used for self-learning Excel dashboarding
 
 ## 📈 Dashboard Features
 
